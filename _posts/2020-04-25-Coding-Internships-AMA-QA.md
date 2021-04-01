@@ -1,5 +1,5 @@
 ---
-title:  "Coding Internships Q&A"
+title:  "Coding Internships Q"
 categories: [internship, announcements, news]
 tags: [coding, internships, internship, ama]
 ---
