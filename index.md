@@ -1,11 +1,11 @@
 ---
 layout: splash
 feature_row:
-  # - title: "Projects"
-  #   excerpt: "Learn more about our projects."
-  #   url: "/projects/"
-  #   btn_label: "Go to Projects"
-  #   btn_class: "btn--inverse"
+  - title: "Projects"
+    excerpt: "Learn more about our projects."
+    url: "/projects/"
+    btn_label: "Go to Projects"
+    btn_class: "btn--inverse"
   - title: "Learn to Code"
     excerpt: "Learn more about coding, DevSecOps, and enjoy our list of free courses."
     url: "/learn/"
